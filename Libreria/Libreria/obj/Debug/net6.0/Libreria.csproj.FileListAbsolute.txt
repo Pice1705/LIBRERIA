@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\bin\Debug\net6.0\Libreria.exe
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\bin\Debug\net6.0\Libreria.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\Libreria.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\C#\ProgUTN\Libreria\Libreria\obj\Debug\net6.0\ref\Libreria.dll

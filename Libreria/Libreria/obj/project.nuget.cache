@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFfnx4Ig+XGWP9CCQmh30CUlMwFh6DcyREBP4cj1BLpKGqNhNVI1YdmCahThWPmdTI3y8OtMhu+0gu3o0Npblw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Escritorio\\C#\\ProgUTN\\Libreria\\Libreria\\Libreria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
